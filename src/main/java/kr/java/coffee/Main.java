@@ -24,6 +24,8 @@ public class Main {
 	}else {
 	System.out.println("다름");
 }
-}
+	//이 부분은 Eclipse에서 추가...
+
+	}
 
 }
