@@ -56,6 +56,12 @@ public class Product {
 			return false;
 		return true;
 	}
+	public Product(String code, String name, int price) {
+		super();
+		this.code = code;
+		this.name = name;
+		this.price = price;
+	}
 	
 	
 }
